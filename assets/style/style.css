@@ -1,0 +1,18 @@
+.banner{
+    background-image: url("../img/img1.jpg");
+    background-position: top center;
+    background-size: cover;
+    background-attachment: fixed;
+    padding: 25%;
+
+
+}
+.menu{
+    background-color: rgb(189, 114, 114);
+}
+
+.pie{
+    background-color: rgb(189, 114, 114);
+    background-position: top center;
+    color: black;
+}
